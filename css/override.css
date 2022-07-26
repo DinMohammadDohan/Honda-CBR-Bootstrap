@@ -1,0 +1,86 @@
+.navbar ul{
+    color: aliceblue;
+}
+
+
+.fa-star.filled {
+    color: #FFC014;
+}
+
+.fa-star.empty {
+    color: gray;
+}
+
+.user {
+    width: 204px;
+    height: 204px;
+}
+
+.mdi-36px {
+    font-size: 39px;
+    margin-right: 10px;
+}
+
+.bg-head {
+    background-color: #264653;
+}
+
+.bg-btn {
+    background-image: linear-gradient(to bottom, #E76F51 0%, #eb613e);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 20px;
+}
+
+.fc {
+    color: #eb613e;
+}
+
+.container {
+
+    margin-top: 150px;
+}
+
+
+.grid-container {
+    gap: 300px;
+}
+
+.hbike img{
+    width: 340px;
+    height: 340px;
+
+}
+.gray img {
+    filter: grayscale(100%);
+    width: 240px;
+    height: 240px;
+}
+.fimg img {
+    width: 240px;
+    height: 240px;
+}
+
+.footer-basic ul {
+    padding: 0;
+    list-style: none;
+    /* text-align:center; */
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+/* .footer-basic li {
+    padding:0 10px;
+  } */
+
+.footer-basic ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.footer-basic ul a:hover {
+    opacity: 1;
+}
